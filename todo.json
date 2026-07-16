@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "task": "Capsicum - 1/4 kg",
+        "completed": false
+    },
+    {
+        "task": "Banana - 1 dozen",
+        "completed": false
+    },
+    {
+        "task": "Mango - 1 kg",
+        "completed": false
+    }
+]
