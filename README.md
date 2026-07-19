@@ -1,7 +1,11 @@
 # CODSOFT Python Programming Internship
 
 ## 🎥 Demo Video
-https://github.com/TheGenuineGuy/CODSOFT/blob/main/demo_video/task%20demo.mp4
+
+
+https://github.com/user-attachments/assets/1bda5acf-c624-4ee8-aee1-737de9d2b677
+
+
 ---
 
 This repository contains the tasks completed as part of the **CodSoft Python Programming Internship**. Each task is built as a standalone Python GUI application using `customtkinter`, with data persisted locally in JSON.
